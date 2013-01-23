@@ -1,0 +1,12 @@
+= Logo's for Elnode =
+
+Elnode lacked a logo for a long time, I am normally quick to draw
+something.
+
+JLF, of {{{#emacs}}} fame, suggested the idea of a cloud of GNUs.
+
+So this is all the sources and built files from those sources that you
+might need.
+
+The original original was a sketch, by me, in
+a [[http://pasteboard.co/2xriwNRN.jpg|paper notebook]]
